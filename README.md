@@ -1,7 +1,7 @@
 # Hello World 홈페이지 입니다. 
 
 ## 고양이 사진모임
-<img src="cat.jpg"> </br>
+<img src="cat.jpg"> <br>
 
 # markup language
 # title
